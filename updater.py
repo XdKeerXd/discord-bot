@@ -14,7 +14,7 @@ def check_update():
         if github_version != LOCAL_VERSION:
             print("⚠ UPDATE AVAILABLE!")
         else:
-            print("✅ Bot is up to date")
+            print("✅ Bot is up to date niggers")
 
     except Exception as e:
         print("Update check failed:", e)
