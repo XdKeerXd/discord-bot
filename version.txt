@@ -1,3 +1,2 @@
 https://raw.githubusercontent.com/XdKeerXd/discord-bot/main/version.txt
-1.2
-fuck youuuuuuu
+1.3
