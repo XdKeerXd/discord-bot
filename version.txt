@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/XdKeerXd/discord-bot/main/version.txt
+https://github.com/XdKeerXd/discord-bot/raw/main/bot.py
 1.3
