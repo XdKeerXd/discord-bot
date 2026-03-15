@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/XdKeerXd/discord-bot/main/version.txt
-1.1
+1.5
